@@ -1,5 +1,5 @@
-Package: nycr
-Title: What the Package Does (One Line, Title Case)
+Package: nycaux
+Title: A couple datasets of convenience for NYC
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "First",
